@@ -1,6 +1,6 @@
 # AAA Backend
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
@@ -54,7 +54,7 @@
 - OpenSSL (for key generation)
 - Make (optional, but recommended)
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
